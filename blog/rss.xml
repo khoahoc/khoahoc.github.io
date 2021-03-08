@@ -4,9 +4,16 @@
         <title>SudoSys.com Blog</title>
         <link>https://sudosys.com/blog</link>
         <description>SudoSys.com Blog</description>
-        <lastBuildDate>Mon, 08 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 04:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[System Architect]]></title>
+            <link>https://sudosys.com/blog/system-architect</link>
+            <guid>system-architect</guid>
+            <pubDate>Mon, 08 Mar 2021 04:19:01 GMT</pubDate>
+            <description><![CDATA[Do trình độ kỹ thuật hạn hẹp, mong các bạn đọc giả có thể góp ý hoặc đặt câu hỏi thông qua phần Liên Hệ ở trên.]]></description>
+        </item>
         <item>
             <title><![CDATA[Wifi Provision]]></title>
             <link>https://sudosys.com/blog/wifi-provision</link>
@@ -33,7 +40,7 @@
             <link>https://sudosys.com/blog/huong-dan-cai-dat-firmware-OpenWRT</link>
             <guid>huong-dan-cai-dat-firmware-OpenWRT</guid>
             <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[GIỚI THIỆU]]></description>
+            <description><![CDATA[Chưa cập nhật...]]></description>
         </item>
         <item>
             <title><![CDATA[Terminal Screen Cho Sysadmin]]></title>
